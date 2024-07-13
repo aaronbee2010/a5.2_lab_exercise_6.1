@@ -1,4 +1,4 @@
-# Lab exercise 5 for A5.2 live session
+# Lab exercise 6.1 for A5.2 live session
 
 ## This exercise has been developed and tested with:
 * PHP 8.3.9 (available on PATH) - PHP 8.2+ is required for PHPUnit
